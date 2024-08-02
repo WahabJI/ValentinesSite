@@ -21,4 +21,4 @@ function revealRightContent() {
 
 // Call this function at the appropriate time after your animations
 // For demonstration, using setTimeout as a placeholder for when your animation ends
-setTimeout(revealRightContent, 7500); // Adjust the time based on your animation duration
+setTimeout(revealRightContent, 6500); // Adjust the time based on your animation duration
